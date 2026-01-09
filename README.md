@@ -1,1 +1,1 @@
-https://leetcode.com/problem-list/prshgx6i/
+Super Easy Problems: https://leetcode.com/problem-list/prshgx6i/
