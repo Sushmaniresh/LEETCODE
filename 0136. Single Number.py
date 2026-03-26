@@ -7,3 +7,11 @@ class Solution:
         for key in count:
             if count[key] == 1:
                 return key
+
+
+class Solution(object):
+    def singleNumber(self, nums):
+        a = 0
+        for i in nums:
+            a ^= i
+        return a
