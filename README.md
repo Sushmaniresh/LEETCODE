@@ -11,6 +11,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Sushmaniresh/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,4 +43,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Sushmaniresh/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
