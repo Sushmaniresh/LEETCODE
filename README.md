@@ -80,6 +80,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Sushmaniresh/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -96,6 +97,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
