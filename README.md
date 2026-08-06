@@ -116,6 +116,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -167,4 +168,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
