@@ -60,6 +60,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Sushmaniresh/LEETCODE/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sushmaniresh/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -70,6 +71,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -174,4 +176,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
