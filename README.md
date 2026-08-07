@@ -45,6 +45,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
@@ -64,6 +65,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sushmaniresh/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushmaniresh/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -111,6 +113,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -171,6 +174,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushmaniresh/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -194,4 +198,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
