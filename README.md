@@ -69,6 +69,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Sushmaniresh/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sushmaniresh/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -100,6 +101,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -195,6 +197,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
