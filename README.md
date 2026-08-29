@@ -15,6 +15,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0066-plus-one](https://github.com/Sushmaniresh/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0135-candy](https://github.com/Sushmaniresh/LEETCODE/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sushmaniresh/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
@@ -39,12 +40,14 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
