@@ -46,6 +46,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0125-valid-palindrome](https://github.com/Sushmaniresh/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -84,6 +85,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Sushmaniresh/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -175,6 +177,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0001-two-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -277,4 +280,5 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
