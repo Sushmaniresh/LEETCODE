@@ -44,6 +44,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sushmaniresh/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -161,6 +162,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -171,6 +173,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -270,4 +273,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
