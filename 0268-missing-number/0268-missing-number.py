@@ -1,7 +1,8 @@
+
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         n = len(nums)
-        ans = n
+        xorr = n
         for i in range(n):
-            ans ^= i ^ nums[i]
-        return ans   
+            xorr ^= i ^ nums[i]
+        return xorr      
