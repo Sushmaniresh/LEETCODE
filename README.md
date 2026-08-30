@@ -140,6 +140,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0102-binary-tree-level-order-traversal](https://github.com/Sushmaniresh/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -268,6 +270,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0102-binary-tree-level-order-traversal](https://github.com/Sushmaniresh/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,4 +305,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
