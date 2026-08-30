@@ -19,6 +19,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sushmaniresh/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sushmaniresh/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -72,6 +73,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Sushmaniresh/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -185,6 +187,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/Sushmaniresh/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
