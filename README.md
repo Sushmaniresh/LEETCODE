@@ -26,6 +26,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0704-binary-search](https://github.com/Sushmaniresh/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Sushmaniresh/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -106,6 +107,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushmaniresh/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0338-counting-bits/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
