@@ -122,6 +122,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
@@ -195,6 +196,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
