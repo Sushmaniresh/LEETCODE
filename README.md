@@ -70,6 +70,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/Sushmaniresh/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
+| [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -82,6 +83,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -169,6 +171,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0125-valid-palindrome](https://github.com/Sushmaniresh/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -205,6 +208,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -235,6 +239,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -255,6 +260,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sushmaniresh/LEETCODE/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1046-last-stone-weight](https://github.com/Sushmaniresh/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Recursion
