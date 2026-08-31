@@ -168,6 +168,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sushmaniresh/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/Sushmaniresh/LEETCODE/tree/main/0038-count-and-say/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sushmaniresh/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
