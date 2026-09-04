@@ -257,6 +257,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Number Theory
