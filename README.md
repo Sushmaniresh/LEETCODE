@@ -29,6 +29,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0704-binary-search](https://github.com/Sushmaniresh/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Sushmaniresh/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/Sushmaniresh/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -217,6 +218,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+| [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -257,6 +259,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
