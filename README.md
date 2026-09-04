@@ -92,6 +92,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
+| [3913-sort-vowels-by-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [3612-process-string-with-special-operations-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Sushmaniresh/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3913-sort-vowels-by-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3913-sort-vowels-by-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/3913-sort-vowels-by-frequency/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
