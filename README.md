@@ -169,6 +169,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -255,12 +256,14 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Number Theory
@@ -294,6 +297,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
