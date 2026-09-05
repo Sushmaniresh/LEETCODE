@@ -13,6 +13,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Sushmaniresh/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Sushmaniresh/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushmaniresh/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -81,6 +82,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sushmaniresh/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
@@ -179,6 +181,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sushmaniresh/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/Sushmaniresh/LEETCODE/tree/main/0038-count-and-say/) | Medium |
+| [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sushmaniresh/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
@@ -213,6 +216,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sushmaniresh/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
