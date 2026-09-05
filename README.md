@@ -15,6 +15,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Sushmaniresh/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Sushmaniresh/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushmaniresh/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/Sushmaniresh/LEETCODE/tree/main/0135-candy/) | Hard |
@@ -83,6 +84,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sushmaniresh/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
@@ -382,4 +384,8 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
