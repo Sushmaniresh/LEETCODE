@@ -32,6 +32,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0704-binary-search](https://github.com/Sushmaniresh/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Sushmaniresh/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0994-rotting-oranges](https://github.com/Sushmaniresh/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/Sushmaniresh/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -305,6 +306,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+| [0994-rotting-oranges](https://github.com/Sushmaniresh/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -342,6 +344,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+| [0994-rotting-oranges](https://github.com/Sushmaniresh/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
