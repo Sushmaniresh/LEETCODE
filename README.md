@@ -21,6 +21,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/Sushmaniresh/LEETCODE/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Sushmaniresh/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Sushmaniresh/LEETCODE/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
@@ -116,6 +117,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0070-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sushmaniresh/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Sushmaniresh/LEETCODE/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0213-house-robber-ii/) | Medium |
 | [0338-counting-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
