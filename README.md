@@ -172,6 +172,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0100-same-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/Sushmaniresh/LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
@@ -272,6 +273,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sushmaniresh/LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -307,6 +309,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0102-binary-tree-level-order-traversal](https://github.com/Sushmaniresh/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/Sushmaniresh/LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sushmaniresh/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
@@ -398,6 +401,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Sushmaniresh/LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
