@@ -13,6 +13,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Sushmaniresh/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0047-permutations-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/Sushmaniresh/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
@@ -84,6 +85,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Sushmaniresh/LEETCODE/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Sushmaniresh/LEETCODE/tree/main/0169-majority-element/) | Easy |
@@ -328,6 +330,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0047-permutations-ii/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
