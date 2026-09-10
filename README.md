@@ -31,6 +31,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sushmaniresh/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Sushmaniresh/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Sushmaniresh/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Sushmaniresh/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
@@ -99,6 +100,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Sushmaniresh/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Sushmaniresh/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -117,6 +119,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sushmaniresh/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
