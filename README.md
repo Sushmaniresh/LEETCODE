@@ -40,6 +40,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/Sushmaniresh/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sushmaniresh/LEETCODE/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
