@@ -63,6 +63,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sushmaniresh/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sushmaniresh/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -223,11 +224,13 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -313,6 +316,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0021-merge-two-sorted-lists](https://github.com/Sushmaniresh/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Sushmaniresh/LEETCODE/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
