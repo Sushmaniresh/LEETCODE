@@ -30,6 +30,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
+| [0645-set-mismatch](https://github.com/Sushmaniresh/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Sushmaniresh/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/Sushmaniresh/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Sushmaniresh/LEETCODE/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -94,6 +95,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0645-set-mismatch](https://github.com/Sushmaniresh/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Sushmaniresh/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sushmaniresh/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -154,6 +156,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/Sushmaniresh/LEETCODE/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0645-set-mismatch](https://github.com/Sushmaniresh/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Tree
@@ -231,6 +234,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0242-valid-anagram](https://github.com/Sushmaniresh/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Sushmaniresh/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0645-set-mismatch](https://github.com/Sushmaniresh/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/Sushmaniresh/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Sushmaniresh/LEETCODE/tree/main/0997-find-the-town-judge/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
