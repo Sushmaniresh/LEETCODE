@@ -125,6 +125,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0628-maximum-product-of-three-numbers](https://github.com/Sushmaniresh/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sushmaniresh/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Sushmaniresh/LEETCODE/tree/main/2469-convert-the-temperature/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushmaniresh/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -228,12 +229,14 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0206-reverse-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Sushmaniresh/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
