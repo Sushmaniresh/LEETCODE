@@ -48,6 +48,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [2574-left-and-right-sum-differences](https://github.com/Sushmaniresh/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sushmaniresh/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sushmaniresh/LEETCODE/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sushmaniresh/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -126,6 +127,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sushmaniresh/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Sushmaniresh/LEETCODE/tree/main/2469-convert-the-temperature/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sushmaniresh/LEETCODE/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sushmaniresh/LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
