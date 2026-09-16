@@ -184,6 +184,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sushmaniresh/LEETCODE/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
@@ -339,6 +341,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sushmaniresh/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sushmaniresh/LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -351,6 +354,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sushmaniresh/LEETCODE/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1302-deepest-leaves-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
