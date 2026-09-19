@@ -67,6 +67,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0202-happy-number](https://github.com/Sushmaniresh/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Sushmaniresh/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -232,6 +233,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0141-linked-list-cycle](https://github.com/Sushmaniresh/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sushmaniresh/LEETCODE/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Stack
