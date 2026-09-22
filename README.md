@@ -184,6 +184,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Sushmaniresh/LEETCODE/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sushmaniresh/LEETCODE/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -198,6 +199,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0210-course-schedule-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Sushmaniresh/LEETCODE/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -343,6 +345,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0207-course-schedule](https://github.com/Sushmaniresh/LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Sushmaniresh/LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Sushmaniresh/LEETCODE/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Sushmaniresh/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0994-rotting-oranges](https://github.com/Sushmaniresh/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Sushmaniresh/LEETCODE/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -355,6 +358,7 @@ Top interview 150: https://leetcode.com/studyplan/top-interview-150/
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Sushmaniresh/LEETCODE/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Sushmaniresh/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sushmaniresh/LEETCODE/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
